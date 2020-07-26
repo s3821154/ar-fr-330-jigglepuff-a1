@@ -3,7 +3,7 @@
 # Team Members
 
 1. Areeb Majeed - s3827035
-2. Placeholder - s1234567
+2. Kelly Keov - s3780150
 3. Placeholder - s1234567
 4. Placeholder - s1234567
 5. Placeholder - s1234567
