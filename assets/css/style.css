@@ -78,14 +78,18 @@ nav a:not(:last-child):after {
     text-align: center;
 }
 
+b {
+    color: #78CDD7;
+}
+
 h1 {
     font-size: 200%;
-    color: #247B7B;
+    color: #44A1A0;
 }
 
 h2 {
     font-size: 150%;
-    color: #247B7B;
+    color: #44A1A0;
     margin: 0;
 }
 
