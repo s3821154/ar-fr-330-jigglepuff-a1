@@ -1,4 +1,4 @@
-# AR-FR-330-JIGGLEPUFF-A1
+# AR-FR-330-CODEPUFF
 
 # Team Members
 
@@ -11,4 +11,4 @@
 
 # Live
 
-The assignment is live at http://ar-fr-330-jigglepuff.s3.amazonaws.com/a1/index.html
+The assignment is live at http://ar-fr-330-codepuff.s3.amazonaws.com/index.html
